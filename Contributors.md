@@ -256,5 +256,17 @@
   </a>
 </td>
 <!-- End of column-21 -->
+ <!-- Start of column-21 -->
+<td align="center">
+  <a href="https://github.com/Emmanueluzoezie">
+    <img
+      src="https://avatars.githubusercontent.com/u/87155142?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Emmanuel uzoezie</sub>
+   </a>
+ </td>
+ <!-- End of column-19 -->
 </tr>
 </table>
